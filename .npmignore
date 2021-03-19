@@ -1,0 +1,10 @@
+.github/
+coverage/
+node_modules/
+src/
+.eslintignore
+.eslintrc
+docker-compose.yml
+jest.config.js
+tsconfig*
+version.js
