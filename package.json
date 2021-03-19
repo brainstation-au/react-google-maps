@@ -1,6 +1,6 @@
 {
   "name": "@brainstationau/react-google-maps",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React integration with google-maps",
   "main": "dist/index.js",
   "scripts": {
