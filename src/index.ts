@@ -1,1 +1,1 @@
-export const addition = (a: number, b: number): number => a + b;
+export { geolocate, GoogleMapsProvider, GoogleMapsProviderProps, useGoogleMaps } from './GoogleMaps';
